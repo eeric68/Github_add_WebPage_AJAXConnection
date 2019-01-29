@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=ZNBwugL-u1o
 https://github.com/cwpeng/live-records-samples
 
 // test 20190129_14:00
+// remote add_info_3 - test 20190129 14:00
