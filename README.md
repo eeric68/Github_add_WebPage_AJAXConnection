@@ -23,3 +23,4 @@ https://github.com/cwpeng/live-records-samples
 // remote - add content
 // remote - add content_2
 // create branch  20190129 15:17
+// change for gir fetch 20190129 15:42
