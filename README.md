@@ -21,3 +21,4 @@ https://github.com/cwpeng/live-records-samples
 
 // remote - test 20190129 14:32
 // remote - add content
+// remote - add content_2
